@@ -1,0 +1,26 @@
+1. Membahas/Me-review materi I/O Syntax, Arithmetic Operator, dan Selection dalam bahasa C.
+2. Menjelaskan lebih jelas lms, komprehensif, dan projek.
+3. Aplikasi yang akan dipakai dalam pembelajaran.
+
+Ringkasan:
+- Tipe Data
+    Tipe data dan variabel itu berbeda
+        - tipe data itu kontainer (penamaan umum untuk objek tersebut)
+        - variabel itu nama dari objek tersebut
+        Contoh: 
+        Tipe data -> Gayung
+        Variabel -> Lion Star
+
+- Input Output Syntax
+    
+    Input
+    * Scanf
+    * Getchar
+    * Gets
+
+    Output
+    * Printf
+    * Putchar
+    * Puts
+
+
