@@ -1,0 +1,40 @@
+1. Selection (Pilihan/Syarat)
+    Pilihan/syarat yang digunakan dalam program berisikan kondisi perintah.
+    - If else
+        If : Memerlukan kondisi
+        Else if: Turunan If, kondisi kedua dst.
+        Else: Tidak bisa berdiri sendiri (Harus ada If), tidak perlu ada kondisi
+    - Switch case
+        Hanya bisa perbandingan "=="
+        Biasa dipakai untuk kondisi ruang lingkup lebih sempit
+    - Ternary Operator
+        [kondisi] ? [jika benar] : [jika salah];
+        Disarankan digunakan untuk membuat kondisi sederhana.
+
+2. Repetition/Looping/Perulangan
+    - For
+    Template perulangan tanpa kondisi.
+    Digunakan dengan kasus urutan angka.
+    - While
+    Mmeriksa kondisi terlebih dahulu kemudian menjalankan perintah.
+    - Do-While
+    Melakukan perintah terlebih dahulu kemudian melihat kondisi.
+
+3. Array & pointer
+    - Array
+        Kumpulan beberapa data dengan tipe data yang sama.
+        Ukuran - 1
+    - Pointer
+        Alamat
+        Ditandai dengan * dan &
+        
+4. Function
+    - Membagi bagi-bagi tugas
+    - Cara passing data di function
+        1. Passing by value
+            Meng-copy value tanpa mengubah data asli
+            printByValue(angka);
+        2. Passing by reference (pointer)
+        3. Passing by address
+    - Meningkatkan readibility
+    - Code recycle

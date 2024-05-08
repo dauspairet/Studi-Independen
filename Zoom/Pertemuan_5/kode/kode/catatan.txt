@@ -1,0 +1,27 @@
+# Array, Array List, dan Vector
+    Perbedaan
+        - Array itu ukurannya fixed
+        - ArrayList itu tidak sinkron
+        - Vector itu sinkron
+
+# Konsep OOP
+    Abstraction     : menyembunyikan implementasi
+        - Abstract, 
+            Extend hanya satu
+            Semua jenis atribut bisa masuk
+        - Interface, 
+            Implements bisa lebih dari satu
+            Hanya bisa static final
+    Encapsulation   : menyembunyikan informasi
+        Untuk mengakses data yang di-Encapsulation dapat menggunakan getter dan setter
+    Inheritance     : mewariskan attribute & method
+        Pengertian sama, tapi beda cara penyusunan
+            Parent - Child
+            Super class - subclass
+    Polymorphism    : banyak bentuk
+        - Overloading Compile time (error terlihat saat compile)
+            Parameter
+                1. beda tipe data
+                2. beda jumlah
+                3. beda urutan
+        - Overriding  Run time

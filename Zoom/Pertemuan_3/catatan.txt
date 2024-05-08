@@ -1,0 +1,17 @@
+Built-in Function and Struct
+
+1. Built-in Function
+    Sebuah function yang sudah disediakan oleh library.
+2. List Standard Library C
+    - stdio.h   : Input/Output
+    - ctype.h   : Manipulasi karakter
+    - string.h  : Manipulasi string
+        - panjang   : strlen
+        - copy      : strcpy
+        - banding   : strcmp
+        - membalik  : strrev
+    - stdlib.h  : rand dan srand
+3. Struct
+    Kumpulan data yang berbeda, tipe data bisa berbeda atau sama
+    
+

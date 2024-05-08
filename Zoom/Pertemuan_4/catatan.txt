@@ -1,0 +1,28 @@
+1. Intro Java
+    Public      = semua kelas bisa pakai
+    Protected   = hanya dapat dipakai oleh class tertentu
+    Package     = beberapa kelas di bawah kategori yang sama
+    Subclass    = parent->child bersifat private. Child memiliki turunan yang diturunkan dari parent
+    Contructor  = inisialisasi objek dari kelas tersebut
+    
+    - Dalam import dapat menggunakan tanda '*' untuk mengimport semua kelasnya
+    
+    Static      = dapat dipanggil langsung dari kelasnya tanpa perlu membuat objek dari kelas tersebut.
+    foreach     = index mendapatkan banyaknya dari suatu variabel, tidak perlu disebutkan lagi
+    
+    - Jika access modifier (public) dihilangkan akan berubah menjadi default
+2. Method
+    class       = seperti struct. yang membuat objek 
+    objek       = memiliki banyak data yang disimpan, mempunyai method, atribut.
+    - contoh    = Scanner input
+    Scanner (class) input(class)
+
+3. Wrapper Class (Tipe data yang dibuat menjadi sebuah kelas)
+    - contoh = Integer ada
+             = ada.parseInt(variabel);
+
+4. Inheritance (Pewarisan)
+    Parent -> child
+    Manusia -> Guru
+            -> Murid
+
