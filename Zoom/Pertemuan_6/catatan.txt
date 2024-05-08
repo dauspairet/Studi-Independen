@@ -1,0 +1,7 @@
+1. Latihan soal
+	- Burger 
+		Pembagian class berdasarkan fungsinya dengan rinci. Seperti ada pembagian untuk class yang hanya akan menerima input (ConsoleInput) dan class data berdasarkan ruang lingkup (Burger)
+	- Dog and Cat
+		Parent -> Animal
+		Child	- Dog	
+				- Cat
